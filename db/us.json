@@ -1,0 +1,29 @@
+{
+  "Register": [
+    {
+      "NAME": "Robert",
+      "EMAIL": "rob23@gmial.com",
+      "PASSWORD": "robert123"
+    },
+    {
+      "NAME": "Schwartz",
+      "EMAIL": "schwartz16@gmail.com",
+      "PASSWORD": "schwartz123"
+    },
+    {
+      "NAME": "Emily",
+      "EMAIL": "emily73@gmail.com",
+      "PASSWORD": "emily123"
+    },
+    {
+      "NAME": "Dante",
+      "EMAIL": "dante08@gmial.com",
+      "PASSWORD": "dante123"
+    },
+    {
+      "NAME": "Ellen",
+      "EMAIL": "ellen59@gmial.com",
+      "PASSWORD": "ellen123"
+    }
+  ]
+}
